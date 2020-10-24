@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Jawhar is learning on coursera</p>
       </header>
     </div>
   );
